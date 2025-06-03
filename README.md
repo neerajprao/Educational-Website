@@ -56,6 +56,8 @@ Explore the live version of LearnSphere here: [https://learnsphere.netlify.app/]
 ---
 
 ## Project Structure
+
+```
 ├── index.html
 ├── style.css
 ├── js/
@@ -71,6 +73,8 @@ Explore the live version of LearnSphere here: [https://learnsphere.netlify.app/]
     ├── 5.jpeg
     ├── 6.jpeg
     └── 7.jpeg
+```
+
 ---
 
 ## Future Enhancements (Ideas)
