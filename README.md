@@ -35,7 +35,7 @@ To view and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<repository_url>](https://github.com/neerajprao/Educational-Website)
+    git clone https://github.com/neerajprao/Educational-Website
     ```
     (Replace `<repository_url>` with the actual URL if you host this on GitHub or similar platforms.)
 
