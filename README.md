@@ -61,17 +61,16 @@ Explore the live version of LearnSphere here: [https://learnsphere.netlify.app/]
 ├── js/
 │   └── main.js
 └── images/
-├── about.jpeg
-├── contact.jpeg
-├── home.webp
-├── 1.jpeg
-├── 2.jpeg
-├── 3.jpeg
-├── 4.jpeg
-├── 5.jpeg
-├── 6.jpeg
-└── 7.jpeg
-
+    ├── about.jpeg
+    ├── contact.jpeg
+    ├── home.webp
+    ├── 1.jpeg
+    ├── 2.jpeg
+    ├── 3.jpeg
+    ├── 4.jpeg
+    ├── 5.jpeg
+    ├── 6.jpeg
+    └── 7.jpeg
 ---
 
 ## Future Enhancements (Ideas)
