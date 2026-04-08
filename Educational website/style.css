@@ -107,7 +107,7 @@ header .fa-bars{
 
 .home{
     min-height: 100vh;
-    background: linear-gradient(rgba(198,59,250,.8),rgba(198,59,250,.8)), url(../html/images/home.webp) no-repeat;
+    background: linear-gradient(rgba(198,59,250,.8),rgba(198,59,250,.8)), url(images/home.webp) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
